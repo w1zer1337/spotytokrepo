@@ -10,27 +10,36 @@
   "tintColor": "#018084",
   "apps": [
     {
-      "name": "WDBRemoveThreeAppLimit",
-      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
-      "developerName": "Zhuowei",
-      "subtitle": "Removes three app limit from AltStore!",
-      "localizedDescription": "An app that removes the three app limit for free provisioning. Hit \"Go\" just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\n\u2022 Apps still expire after a week\n\u2022 They still do not get arbitrary entitlements\n\u2022 They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
-      "iconURL": "https://i.imgur.com/ODvSw7D.png",
-      "tintColor": "#404040",
-      "screenshotURLs": [
-        "https://i.imgur.com/6pajtgW.png"
-       
-      ],
-      "versions": [
+      "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Discord mod for iOS",
+            "version": "1.0.8",
+            "versionDate": "2022-04-16",
+            "downloadURL": "https:\/\/github.com\/enmity-mod\/enmity-ios\/releases\/download\/release-v1.0.8\/Enmity.ipa",
+            "localizedDescription": "Based on Discord v122 | The best (and only) full Discord mod for iOS with theme and plugin support.",
+            "iconURL": "https:\/\/ipa.itsnebula.net\/icons\/enmity.png",
+            "tintColor": "FFC300",
+            "size": 59454259,
+            "screenshotURLs": [
+                "https:\/\/cdn.discordapp.com\/attachments\/950850316318933004\/964960560162697246\/IMG_0403.png",
+                "https:\/\/cdn.discordapp.com\/attachments\/961782176062509117\/962839961567100938\/IMG_0113.png"
+            ]
+        },
         {
-          "version": "1.0",
-          "date": "2023-02-16",
-          "localizedDescription": "\u2022 Updated WDBRemoveThreeAppLimit to v1.0",
-          "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
-          "size": 88800,
-          "sha256": "428982c14796e7caa66d2743964fa37157d0e9db574ada326aa09a65a11c147c",
-          "maxOSVersion": "16.1.2"
+            "name": "Ourea",
+            "bundleIdentifier": "com.nightwind.Ourea",
+            "developerName": "Third party shortcuts store",
+            "version": "0.1.1",
+            "versionDate": "2022-04-16",
+            "downloadURL": "https:\/\/github.com\/NightwindDev\/Ourea-Help\/raw\/main\/Ourea.ipa",
+            "localizedDescription": "Custom store for third party shortcuts.",
+            "iconURL": "https:\/\/cdn.discordapp.com\/attachments\/933557683720712195\/965066593342218291\/OureaIcon.png",
+            "tintColor": "FFC300",
+            "size": 9856614,
+            "screenshotURLs": [
+                "https:\/\/cdn.discordapp.com\/attachments\/933557683720712195\/965067034637525093\/IMG_1069.PNG",
+                "https:\/\/cdn.discordapp.com\/attachments\/933557683720712195\/965067034843041832\/IMG_1063.PNG"
+            ]
         }
-  ],
-  "userinfo": {}
+    ]
 }
