@@ -1,24 +1,11 @@
 {
-  "name": "RandomSource",
-  "identifier": "com.randomblock1.randomsource",
-  "sourceURL": "https://randomblock1.github.io/randomsource/apps.json",
-  "apps": [
-    {
-      "name": "Unc0ver",
-      "subtitle": "The most advanced jailbreak tool",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29T16:00:00-06:00",
-      "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail​break stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
-      "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
-      "tintColor": "000000",
-      "size": 54489484,
-      "screenshotURLs": [
-        "https://i.imgur.com/I3aRpPO.jpg",
-        "https://i.imgur.com/mERBTaF.jpg"
-      ]
-    }
- 
+"name": "AltStore Complete",
+  "identifier": "com.rileytestut.AltStore.Complete",
+  "apiVersion": "v2",
+  "subtitle": "Contains tweaked apps, free streaming, cracked apps, and more.",
+  "description": "Find all the apps Riley Testut and the AltStore Team has ever released all in one AltSource! Regular, Beta, Alpha, this source has it all. This source is an automatically kept up-to-date source, powered by GitHub Actions, the Python altparse library.",
+  "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
+  "headerURL": "https://quarksources.github.io/assets/altstore-complete.png",
+  "website": "https://quarksources.github.io/",
+  "tintColor": "#018084"
+}
