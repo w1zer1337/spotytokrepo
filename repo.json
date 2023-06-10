@@ -1,5 +1,4 @@
 {
-  "$schema": "./altstore.schema.json",
   "name": "RandomSource",
   "identifier": "com.randomblock1.randomsource",
   "sourceURL": "https://randomblock1.github.io/randomsource/apps.json",
