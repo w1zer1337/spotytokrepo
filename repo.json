@@ -31,5 +31,6 @@
           "sha256": "428982c14796e7caa66d2743964fa37157d0e9db574ada326aa09a65a11c147c",
           "maxOSVersion": "16.1.2"
         }
-      ]
-},
+  ],
+  "userinfo": {}
+}
