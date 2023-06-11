@@ -21,7 +21,6 @@
             "size": 59454259,
       
         },
-    
      {
       "name": "Whitelist",
             "bundleIdentifier": "ca.bomberfish.whitelist",
@@ -34,7 +33,7 @@
             "tintColor": "FFC300",
             "size": 59454259,
       
-        }
+        },
     
     ]
 }
