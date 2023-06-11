@@ -22,5 +22,19 @@
       
         }
     
+     {
+      "name": "Whitelist",
+            "bundleIdentifier": "ca.bomberfish.whitelist",
+            "developerName": "BomberFish",
+            "version": "1.1.0",
+            "versionDate": "2023-02-04",
+            "downloadURL": "https://github.com/BomberFish/Whitelist/releases/download/1.1.0/Whitelist.ipa",
+            "localizedDescription": "Jailed iOS app to un-blacklist all enterprise-signed apps.",
+            "iconURL": "https://github.com/BomberFish/Whitelist/blob/main/img/icon.png",
+            "tintColor": "FFC300",
+            "size": 59454259,
+      
+        }
+    
     ]
 }
