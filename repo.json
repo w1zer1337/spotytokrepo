@@ -4,6 +4,8 @@
   "apiVersion": "v2",
   "subtitle": "Tweaked, cracked, beta, alpha apps.",
   "sourceDescription" : "📁 Репозиторий @spotytok для удобной установки приложений!\r\n\r\n🧭 Установка: Нажимаем кнопку скачать, далее нажимаем «установить» и «подписать».",
+  "sourceLinkUrl": "https://t.me/spotytok",
+  "sourceLinkTitle" : "@spotytok",
   "iconURL": "https://media.discordapp.net/attachments/1117199283691724891/1117385450496204871/IMG_0203.jpg",
   "website": "https://github.com/w1zer1337",
   "tintColor": "#630184",
