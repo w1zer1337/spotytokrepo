@@ -49,6 +49,19 @@
             "size": 59454259,
       
         },
+    {
+      "name": "Esign",
+            "bundleIdentifier": "com.esign.jopa",
+            "developerName": "Esign",
+            "version": "4.8.1",
+            "versionDate": "2023-05-23",
+            "downloadURL": "https:\/\/repo.semyonsemenov.ru\/s\/KeQPgLzt7ryzyop\/download\/esign_4.8.1_unsigned.ipaa",
+            "localizedDescription": "Приложение для подписи сертификатом разработчика.",
+            "iconURL": "https:\/\/esign.yyyue.xyz\/ESignLogo200.png",
+            "tintColor": "FFC300",
+            "size": 59454259,
+      
+        },
     
     ]
 }
